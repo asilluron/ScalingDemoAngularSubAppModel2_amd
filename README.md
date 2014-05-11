@@ -1,0 +1,2 @@
+ScalingDemoAngularSubAppModel2_amd
+==================================
